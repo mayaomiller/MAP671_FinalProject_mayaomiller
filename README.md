@@ -11,6 +11,6 @@ Map projection:
 Map scale:
 
 
-Map 1
 >Map Description:
 
+Link to final index page
