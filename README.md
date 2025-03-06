@@ -9,11 +9,11 @@ National Park Service, Department of the Interior, NPS Data Store https://irma.n
 
 Map projection:
 
-    National Parks Overview: EPSG 4269
+* National Parks Overview: EPSG 4269
 
 Map scale:
 
-    Nation Parks Overview: 1:27000000
+* Nation Parks Overview: 1:27000000
 
 
 >Map Description:
