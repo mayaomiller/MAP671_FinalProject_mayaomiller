@@ -2,6 +2,7 @@
 ## United States National Parks
 Created by: Maya Miller
 
+### Map Data
 Map data retrieved from:
 
 United States Census, Tiger/Line Shapefiles https://www.census.gov/cgi-bin/geo/shapefiles/index.php
@@ -16,7 +17,7 @@ Map scale:
 * Nation Parks Overview: 1:27000000
 
 
->Map Description:
+### Map Descriptions
 
 
 Link to final index page
