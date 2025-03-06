@@ -23,6 +23,9 @@ Map scale:
 ### Map Descriptions
 
 **National Parks Overview:**
-This map displays all of the National Parks found in the United States as defined by the National Park Service. In this map, the 
+This map displays all of the National Parks found in the United States as defined by the National Park Service. The primary focus of this map is the parks found in the states themselves. Therefore, the data was filtered to remove any parks found within the US territories such as the Virgin Islands or American Samoa. 
+This map can be viewed below.
+![markdownsummary](/Project%20Maps/National%20Parks%20Overview1200.jpg)
+
 
 Link to final index page
