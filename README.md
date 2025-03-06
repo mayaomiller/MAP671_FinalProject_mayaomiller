@@ -30,6 +30,7 @@ This map displays all of the National Parks found in the United States as define
 This map can be viewed below and in the final index page.
 ![markdownsummary](/Project%20Maps/National%20Parks%20Overview1200.jpg)
 
+
 **South Dakota Parks**
 
 This map is a zoomed in version of the larger National Parks Overview. It displays the National Parks within the state of South Dakota. All of the parks are found within the western side of the state. There are five total parks of varying sizes: Badlands National Park, Mount Rushmore National Memorial, Wind Cave National Park, Jewel Cave National Monument, and Minuteman Missile National Historic Site.
