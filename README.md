@@ -20,5 +20,7 @@ Map scale:
 
 ### Map Descriptions
 
+**National Parks Overview:**
+This map displays all of the National Parks found in the United States as defined by the National Park Service. In this map, the 
 
 Link to final index page
