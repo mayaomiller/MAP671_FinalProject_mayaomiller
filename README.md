@@ -1,6 +1,7 @@
 # MAP671 Final Project
 ## United States National Parks
-Created by: Maya Miller
+Created by: Maya Miller 
+Project created for MAP 671 at the University of Kentucky
 
 ### Map Data
 Map data retrieved from:
