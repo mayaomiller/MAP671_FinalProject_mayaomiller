@@ -4,6 +4,8 @@ Created by: Maya Miller
 
 Project created for MAP 671 at the University of Kentucky
 
+Desc. of overall project. 
+
 ### Map Data
 Map data retrieved from:
 
@@ -53,6 +55,8 @@ The Badlands National Park Vegetation Map displays the wide variety of vegetatio
 
 **Focused Badlands Archaeological Sites**
 
+This map focuses on the eastern corner of the Badlands National Park. By zooming in to focus specifically on this portion of the park, the vegetation in this area is even clearer than in the overview of the whole park. This section was chosen because of archaeological work that was done in the area in the late 1990's and early 2000s. In a joint undertaking by the National Park Service (NPS) and the Federal Highway Administration (FHWA), four archaeological excavations were conducted. Two are visible on this section of the map. They are labeled with the titles Cedar Pass and North Enterance. This map can be viewed below and in the final index page.
+![markdownsummary](/Project%20Maps/Focused%20Badlands%20-%20Arch1200.jpg)
 
 
 Link to final index page
