@@ -44,6 +44,9 @@ This map can be viewed below and in the final index page.
 
 **Badlands National Park Vegetation** 
 
+The Badlands National Park Vegetation Map displays the wide variety of vegetation that is present in and around the Badlands National Park. I utilized Geospatial vegetation data from the National Park Service for this particular park. I specifically imported the "BADL_VegPolys" from the zip file as this contained the vegetation data. Then, I viewed the attributes table to identify the attribute that labeled the types of vegitation. In this case, it was the "MapUnit_Name". Therefore, in the symbology tab, I used the "MapUnit_Name" to categorize the vegetation. Because there is a wide variety of vegetation in this park, I felt it was best to use the random color generator. I randomized a few times to find a color combonation that I felt went well together. Ultimately, there were many types of vegetation, and while I contomplated eliminating some types from the categories and merging the eliminated with the "others" category, I felt this would decrease the accuracy of the map. Although I have visited and lived in the area, I do not know enough about vegetation to accurately eliminate one over another. Therefore, I left all types of vegetation in the map. Additionally, in contrast to my previous maps, I made the borders of the national park white so the boundaries are still visible while still viewing the park's vegetation as the geospatial data displays vegetation from outside the park boudaries as well. This map can be viewed below and in the final index page.
+![markdownsummary](/Project%20Maps/Badlands%20National%20Park12000.jpg)
+
 
 
 Link to final index page
