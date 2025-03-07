@@ -15,6 +15,9 @@ National Park Service, Department of the Interior, NPS Data Store (Unit Boundari
 
 National Park Service, Department of the Interior, NPS Data Store 2005. Geospatial data for the Vegetation Mapping Inventory Project of Badlands National Park https://irma.nps.gov/DataStore/Reference/Profile/2233241
 
+Archaeological Site Information Citation: Archeological investigations on thecedar pass slide, (2002). http://www.npshistory.com/series/archeology/mwac/tech/75.pdf 
+
+Archaeology Information from NPS at Badlands National Park: “Archaeology: Ancient People of the Badlands (U.S. National Park Service).” Www.nps.gov, www.nps.gov/articles/000/archaeology-badl.htm.
 
 Map projection:
 
