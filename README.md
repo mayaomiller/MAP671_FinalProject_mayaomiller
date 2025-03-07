@@ -11,15 +11,20 @@ United States Census, Tiger/Line Shapefiles https://www.census.gov/cgi-bin/geo/s
 
 National Park Service, Department of the Interior, NPS Data Store (Unit Boundaries) https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True
 
+National Park Service, Department of the Interior, NPS Data Store 2005. Geospatial data for the Vegetation Mapping Inventory Project of Badlands National Park https://irma.nps.gov/DataStore/Reference/Profile/2233241
+
+
 Map projection:
 
 * National Parks Overview: EPSG 4269
 * South Dakota Parks: ESRI 103523
+* Badlands National Park Vegetation: ESRI 103523
 
 Map scale:
 
 * Nation Parks Overview: 1:27000000
 * South Dakota Parks: 1:2000000
+* Badlands National Park Vegetation: 1:54000
 
 
 ### Map Descriptions
@@ -36,6 +41,8 @@ This map can be viewed below and in the final index page.
 This map is a zoomed in version of the larger National Parks Overview. It displays the National Parks within the state of South Dakota. All of the parks are found within the western side of the state. There are five total parks of varying sizes: Badlands National Park, Mount Rushmore National Memorial, Wind Cave National Park, Jewel Cave National Monument, and Minuteman Missile National Historic Site.
 This map can be viewed below and in the final index page.
 ![markdownsummary](/Project%20Maps/South%20Dakota%20Parks1200.jpg)
+
+**Badlands National Park Vegetation** 
 
 
 
