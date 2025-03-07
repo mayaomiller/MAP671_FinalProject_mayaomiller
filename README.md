@@ -4,7 +4,7 @@ Created by: Maya Miller
 
 Project created for MAP 671 at the University of Kentucky
 
-Desc. of overall project. 
+This project addresses the United States National Parks. There are National Parks found throughout the USA. Therefore, through a series of maps, the an overview of each park can be seen before focusing on a single National Park. The National Park that will be focused on in the second half of the project is the Badlands National Park. At this site a series of maps will display the location of the park in South Dakota, the vegetation at the site, and select archaeological sites/work that has been conducted within the park by the National Park Service.  
 
 ### Map Data
 Map data retrieved from:
