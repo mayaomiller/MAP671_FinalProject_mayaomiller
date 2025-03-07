@@ -62,4 +62,4 @@ This map focuses on the eastern corner of the Badlands National Park. By zooming
 ![markdownsummary](/Project%20Maps/Focused%20Badlands%20-%20Arch1200.jpg)
 
 
-<ahref="index.html title="United States National Parks Webpage"a>
+<a href="https://<mayaomiller>.github.io/<MAP671_FinalProject_mayaomiller>/index.html" title="United States National Parks Webpage">United States National Parks Webpage</a>
