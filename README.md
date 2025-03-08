@@ -63,5 +63,4 @@ This map focuses on the eastern corner of the Badlands National Park. By zooming
 
 
 
-<a href="index.html" title="National Parks Webpage">National Parks Webpage</a>
-<a href="http://127.0.0.1:5500/index.html" title="National Parks">National Parks</a>
+<a href="http://127.0.0.1:5500/index.html" title="National Parks Webpage">National Parks Webpage</a>
