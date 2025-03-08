@@ -62,5 +62,5 @@ This map focuses on the eastern corner of the Badlands National Park. By zooming
 ![markdownsummary](/Project%20Maps/Focused%20Badlands%20-%20Arch1200.jpg)
 
 
-
-<a href="http://127.0.0.1:5500/index.html" title="National Parks Webpage">National Parks Webpage</a>
+<u>Link to Webpage:<u>
+<a href="http://127.0.0.1:5500/index.html" title="United States National Parks">United States National Parks</a>
