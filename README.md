@@ -64,3 +64,4 @@ This map focuses on the eastern corner of the Badlands National Park. By zooming
 
 
 <a href="index.html" title="National Parks Webpage">National Parks Webpage</a>
+<a href="https://<mayaomiller>.github.io/<MAP671_FinalProject_mayaomiller>/index.html" title="National Parks">National Parks</a>
